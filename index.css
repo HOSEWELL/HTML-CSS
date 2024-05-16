@@ -1,9 +1,8 @@
 form {
     margin: auto;
     padding: 25px 25px;
-    border: solid 5px;
     width: 40%;
-    background-color: blanchedalmond;
+
 }
 input {
     width: 90%;
@@ -18,7 +17,14 @@ button {
 #checkbox {
     width: auto;
 }
-img {
-    width: 35px;
-}
+.icons{
+    padding-left:350px ;
+    }
+    .orsignupwith{
+        display:grid;
+        grid-template-columns: auto auto auto;
+    }
+    .alternative{
+        padding-left: 30%;
+    }
 
